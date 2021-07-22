@@ -6,5 +6,4 @@
 
 ## Contact Me
 
-- [Blog](https://zacksleo.top)
-- [Email](zacksleo@gmail.com)
+- [Blog](https://zacksleo.top) & [Email](zacksleo@gmail.com)
