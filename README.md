@@ -2,8 +2,8 @@
 
 ## Intro
 
- Rust & Java Programer with great passion for Open Source.
+ Flutter & Rust & Java Programer with great passion for Open Source.
 
 ## Contact Me
 
-- [Blog](https://zacksleo.top) & [Email](zacksleo@gmail.com)
+- [Blog](https://zacksleo.github.io/) & [Email](zacksleo@gmail.com)
