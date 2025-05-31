@@ -1,4 +1,6 @@
-少湖，HarmonyOS 开发者达人，华为开发者专家（HDE），坚果派专家，Openharmony 布道师。
+感谢关注！
+
+我是少湖，HarmonyOS 开发者达人，华为开发者专家（HDE），坚果派专家，Openharmony 布道师。
 
 关注公众号《少湖说》，加入交流群。
 
